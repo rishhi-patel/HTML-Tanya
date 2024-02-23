@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Roboto", sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -31,9 +31,9 @@ header {
 }
 
 .about,
-.country,
 .video,
-.skills {
+.skills,
+.job-experience {
   background: #fff;
   margin: 20px;
   padding: 20px;
