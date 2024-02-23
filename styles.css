@@ -18,6 +18,11 @@ header {
   text-align: center;
 }
 
+.main {
+  display: flex;
+  width: 100%;
+}
+
 .bio-photo {
   display: block;
   max-width: 200px;
@@ -69,5 +74,9 @@ iframe {
   section,
   footer {
     padding: 10px;
+  }
+
+  .main {
+    display: block;
   }
 }
